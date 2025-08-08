@@ -2,7 +2,7 @@
 
 <p align="center">
 🌱 Computer Science Student | 💻 Self-taught Coder | 🔬 Pre-Med Background <br>
-📍 C++ • Python • GitHub • SEO • Web Development
+📍 C++ • Python • HTML • CSS • GitHub • SEO • Web Development
 </p>
 
 ---
